@@ -1,3 +1,5 @@
+*Project Problem*
+
 Customer Segmentation is an unsupervised method of targeting the customers in order to increase sales and market goods in a better way
 
 This project deals with real-time data where we have to segment the customers in the form f clusters using the K-Means algorithm

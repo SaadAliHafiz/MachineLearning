@@ -1,4 +1,4 @@
-****Project Statement****
+# ****Project Statement****
 
 Customer Segmentation is an unsupervised method of targeting the customers in order to increase sales and market goods in a better way
 

@@ -7,3 +7,10 @@ The data set consists of important variables like Age, Gender, annual income, et
 With the help of the algorithms, we can easily visualize the data and can get a segmentation of each customer so that we can target the customers in the better way
 
 Customer Segmentation is the subdivision of a market into discrete customer groups that share similar characteristics. Customer Segmentation can be a powerful means to identify unsatisfied customer needs. Using the above data companies can then outperform the competition by developing uniquely appealing products and services.
+
+***Advantages of Customer Segmentation***
+Determine appropriate product pricing.
+Develop customized marketing campaigns.
+Design an optimal distribution strategy.
+Choose specific product features for deployment.
+Prioritize new product development efforts.

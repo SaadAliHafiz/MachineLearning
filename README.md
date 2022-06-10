@@ -1,8 +1,7 @@
 # MachineLearning
 
-In this repository, I pracice and learn to use multiple machine learning libraries in python by doing multiple projects.
+In this repository, I praciced and learned to use multiple machine learning libraries in python by doing multiple projects.
 
-* first part of this repo is related to the Machine Learning course I did and did *assignments*.
-* Second part is related to Projects which I did by using different machine leanring Algorithms and different machone learning libraries in python.
-* Third part is related to the Pytorch tutorial in which I did basics of pytorch and learned how model works and different libraries work in machine learning. 
-* The last part is related to machine learning projects in which I tried to use the libraries which I didn't use while using machine learning algorithm.
+* First part of this repo is related to the machine learning course I did, i.e. *assignments*.
+* Second part is related to projects which I did, by using different machine leanring algorithms and different machine learning libraries in python.
+* Third part is related to the Pytorch tutorial in which I did basics of Pytorch and learned how model and different libraries work in machine learning.
